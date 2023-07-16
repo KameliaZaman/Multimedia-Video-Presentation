@@ -1,2 +1,2 @@
 # Multimedia-Video-Presentation
-Presentation on Electric Discrete Components using Kdenlive
+Multimedia and Animation Techniques Laboratory Final Presentation on Electric Discrete Components using Kdenlive
